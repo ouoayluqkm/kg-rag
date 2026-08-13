@@ -54,3 +54,4 @@ Notes and usage details for kg-rag.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
